@@ -16,5 +16,8 @@ An application that helps people having an absence of arms, paralysis, or even b
 
 Porgramming language used:
 - C#: For making a graphical user interface to make more easier for the user to interacte with the mouse, robot, wheelchair.
+<img src="https://i.ibb.co/02KkVBp/C4apture.png" alt="C4apture" border="0" width = "310" height = "230">
+<img src="https://i.ibb.co/VqbtSRx/Capt2ure.png" alt="Capt2ure" border="0" width = "310" height = "230">
+<img src="https://i.ibb.co/YNX73V2/Capt5ure.png" alt="Capt5ure" border="0" width = "310" height = "230">
 - C++: It is used to control the motors and take data from the sensors in the robot and wheelchair using Arduino.
 - Python: It is used for all the computer vision in the project.
