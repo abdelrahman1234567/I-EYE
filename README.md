@@ -21,9 +21,9 @@
       <li><a href="https://drive.google.com/file/d/1-H2gMOY9Cm4aWm0P1mMKBeSlLE2z5I4t/view?usp=sharing">Video - Wheelchair Testing</a></li>
   </ul>
 
-  <img src="https://i.ibb.co/58z8LL7/Whats-App-Image-2021-07-18-at-9-47-00-PM.jpg" alt="Whats-App-Image-2021-07-18-at-9-47-00-PM"  border="0" width="287" height="240" align="right">
-  <img src="https://i.ibb.co/mSfKydK/Whats-App-Image-2021-07-18-at-9-46-59-PM.jpg" alt="Whats-App-Image-2021-07-18-at-9-46-59-PM" border="0" width="287" height="240" align="right">
-  <img src="https://i.ibb.co/4Jt9W2J/Whats-App-Image-2021-07-18-at-9-46-59-PM-1.jpg" alt="Whats-App-Image-2021-07-18-at-9-46-59-PM-1" border="0" width="287" height="240">
+  <img src="https://i.ibb.co/58z8LL7/Whats-App-Image-2021-07-18-at-9-47-00-PM.jpg" alt="Whats-App-Image-2021-07-18-at-9-47-00-PM"  border="0" width="179" height="150" align="right">
+  <img src="https://i.ibb.co/mSfKydK/Whats-App-Image-2021-07-18-at-9-46-59-PM.jpg" alt="Whats-App-Image-2021-07-18-at-9-46-59-PM" border="0" width="179" height="150" align="right">
+  <img src="https://i.ibb.co/4Jt9W2J/Whats-App-Image-2021-07-18-at-9-46-59-PM-1.jpg" alt="Whats-App-Image-2021-07-18-at-9-46-59-PM-1" border="0" width="179" height="150">
 
   <h2>Programming Languages Used</h2>
   <ul>
